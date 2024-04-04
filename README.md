@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TPManu
+- 👀 I’m interested in software testing/developing, good movies, and music!
+- 🌱 I’m currently learning software development!
+- 💞️ I’m looking to collaborate on qa projects.
+- 📫 How to reach me: Email: manuiapauga@gmail.com
+- ⚡ Fun fact: I love to play instruments!
